@@ -4,6 +4,8 @@
 # for avaiable SQL Server Docker containers see
 # https://hub.docker.com/_/microsoft-mssql-server
 
+
+export PASSWORD="Welkom01"
 # Run Docker conrainer met Docker volume
 # /var/opt/mssql
 docker run \
