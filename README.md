@@ -1,7 +1,7 @@
 # InstallDockerSQLServer
 This project.
 Install scripts to install Developer Edition of SQL Server
-in a Docker container on Ubuntu 18.04 and Windows10
+in a Docker container on Ubuntu 18.04 and Windows10.
 
 ## Requirements
 
