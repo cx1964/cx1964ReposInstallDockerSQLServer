@@ -24,3 +24,6 @@ https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?vie
 
 Microsoft SQL server Docker conrainers</br>
 https://hub.docker.com/_/microsoft-mssql-server
+
+How To Remove Docker Images, Containers, and Volumes</br>
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
