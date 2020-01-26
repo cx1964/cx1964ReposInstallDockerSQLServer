@@ -1,7 +1,5 @@
 # http://www.centinosystems.com/blog/sql/persisting-sql-server-data-in-docker-containers-part-1/
-# remark: run script with command:
-#         sudo ./0060_runSQLServerDockerContainer.sh
-
+# remark: 
 
 # for avaiable SQL Server Docker containers see
 # https://hub.docker.com/_/microsoft-mssql-server
